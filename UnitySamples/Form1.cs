@@ -23,7 +23,7 @@ namespace UnitySamples
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //A new comment using tortoise today at 11:20 AM
+            //A new comment using tortoise today at 14:45 PM
             IUnityContainer container = new UnityContainer();
 
             UnityConfigurationSection section = (UnityConfigurationSection)ConfigurationManager.GetSection("unity");
